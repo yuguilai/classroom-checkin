@@ -31,9 +31,9 @@
 
 ## 🖼️ 界面截图
 
-[主界面](screenshots/main.png)
-[签到操作](screenshots/checkin.png)
-[长按请假](screenshots/leave.png)
+![主界面](screenshots/main.png)
+![签到操作](screenshots/checkin.png)
+![长按请假](screenshots/leave.png)
 
 ## 🛠️ 技术栈
 
